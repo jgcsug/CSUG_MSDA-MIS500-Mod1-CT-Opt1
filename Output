@@ -1,0 +1,22 @@
+sample of 25%      name  age gender state  years_of_service   iq
+3    john   19      M    VA                 0  200
+6  marlon   20      M    NY                 5   40
+('F', 55.0)
+('M', 190.0)
+Sum of Ages 240
+Average Ages 34.285714285714285
+Means of each column age                  34.285714
+years_of_service      2.857143
+iq                  151.428571
+dtype: float64
+count      7.000000
+mean     151.428571
+std      117.817454
+min       10.000000
+25%       70.000000
+50%      110.000000
+75%      250.000000
+max      300.000000
+Name: iq, dtype: float64
+
+Process finished with exit code 0
